@@ -1,2 +1,20 @@
-# CODSOFT
-💻 CodSoft Internship Projects A collection of Python applications including a calculator, rock-paper-scissors game, and contact book, To Do List, demonstrating basic logic, GUI design, and user interaction.
+# Agenda Wizard Lite
+
+A simple and modern To-Do List web app built with React, Vite, TypeScript, and TailwindCSS.
+
+## Features
+✅ Add, edit, delete tasks  
+✅ Mark tasks as completed  
+✅ Responsive and clean UI  
+
+## Tech Stack
+- React + TypeScript
+- Vite
+- TailwindCSS
+- Radix UI components
+
+## Setup
+
+```bash
+npm install
+npm run dev
